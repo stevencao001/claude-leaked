@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/index.tsx",
-    "dev": "tsx watch src/index.tsx"
+    "dev": "tsx watch src/index.tsx",
+    "companion": "tsx src/run.ts"
   },
   "dependencies": {
     "ink": "^5.2.0",
