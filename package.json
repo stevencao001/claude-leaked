@@ -1,0 +1,19 @@
+{
+  "name": "sci-fi-companion",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.tsx",
+    "dev": "tsx watch src/index.tsx"
+  },
+  "dependencies": {
+    "ink": "^5.2.0",
+    "react": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
